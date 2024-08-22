@@ -1,47 +1,11 @@
 [
   {
-    "id": "1",
-    "name": "Laptop A",
-    "price": 999.99,
-    "category": "Laptops",
-    "image": "assets/images/laptop_a.jpg",
-    "rating": 4.7,
-    "reviewsCount": 120
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1GtjdxeZD8tVflAf0u4_PLXWsahCYOQsCA&s",
+    "title": "Wallpaper 1"
   },
   {
-    "id": "2",
-    "name": "Desktop B",
-    "price": 799.99,
-    "category": "Desktops",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1GtjdxeZD8tVflAf0u4_PLXWsahCYOQsCA&s",
-    "rating": 4.5,
-    "reviewsCount": 89
-  },
-  {
-    "id": "3",
-    "name": "Smartphone C",
-    "price": 699.99,
-    "category": "Smartphones",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1GtjdxeZD8tVflAf0u4_PLXWsahCYOQsCA&s",
-    "rating": 4.6,
-    "reviewsCount": 145
-  },
-  {
-    "id": "4",
-    "name": "Tablet D",
-    "price": 499.99,
-    "category": "Tablets",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1GtjdxeZD8tVflAf0u4_PLXWsahCYOQsCA&s",
-    "rating": 4.8,
-    "reviewsCount": 200
-  },
-  {
-    "id": "5",
-    "name": "Monitor E",
-    "price": 199.99,
-    "category": "Monitors",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1GtjdxeZD8tVflAf0u4_PLXWsahCYOQsCA&s",
-    "rating": 4.4,
-    "reviewsCount": 75
+    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo1GtjdxeZD8tVflAf0u4_PLXWsahCYOQsCA&s",
+    "title": "Wallpaper 2"
   }
 ]
+  
