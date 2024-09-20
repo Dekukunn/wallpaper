@@ -10,45 +10,14 @@
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxa8uiwZfjPDGXaCKRqOveMjHk-UTfwrky7TjLEPi76efAz7OnfNJl8fQqqiW2FGUl_8&usqp=CAU"
         ]
       },
-      {
-        "title": "Tiger in the Jungle",
-        "imageUrl1": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg",
-        "similarImages": [
-          "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg",
-          "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg",
-          "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg"
-        ]
-      }
-    ],
-    "Animals": [
-      {
-        "title": "Cute Puppy",
-        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5TGeFGp0pCOy9qPZScUZj5uZ5nL7kRRWv8g&s",
-        "similarImages": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7_mTK1gFweexSLPeqmd6oSXspI6nPZ9e7A&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA7QmwTjAEMFk2hV5fxY54ypRJDJQesZdBzw&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXbXsddmRgwGcxSNOYKD8Cxg07p_Q2kt1VfQ&s"
-        ]
-      },
-      {
-        "title": "Tiger in the Jungle",
-        "imageUrl1": "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg",
-        "similarImages": [
-          "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg",
-          "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg",
-          "https://d1jyxxz9imt9yb.cloudfront.net/medialib/4350/image/s768x1300/AdobeStock_123823873_433578_reduced.jpg"
-        ]
-      }
-    ],
-    "GoldenHour": [
+
       {
         "title": "Golden Hour",
         "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRSFSBFMx_jTH2dpgXMCFUukz9KD5stlsJA&s",
         "similarImages": [
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s"
-        ]
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s"        ]
       },
       {
         "title": "Golden",
@@ -77,15 +46,15 @@
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbBmfaqXbutUpCudpS8prL5vn7utOEyRJuEXxtUomvpP62CBHFJiXLBt1hVJl3s52Kuw&usqp=CAU"
         ]
       },
-      {
-        "title": "anime",
+ {
+        "title": "anime ",
         "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEkAq7IhW8JR4ut313V3j3TbmGb6uMneA_w&s",
         "similarImages": [
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwukU8dVjKhmGRP0UTwmXg-C7foqHkA4q7Lg&s",
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5DqvIpRNtBwsHHTbuxOtS3kYolMeN9e3ow&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7lNbCQAXSXBl8g3jRnh3lXt-XOUV7StFOg&s"
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7lNbCQAXSXBl8g3jR8u48ejpnmduPYncQQ&s"
         ]
       }
-    ]
-  }
+    ],
+
 }
