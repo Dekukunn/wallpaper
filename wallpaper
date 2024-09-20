@@ -10,14 +10,14 @@
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxa8uiwZfjPDGXaCKRqOveMjHk-UTfwrky7TjLEPi76efAz7OnfNJl8fQqqiW2FGUl_8&usqp=CAU"
         ]
       },
-
       {
         "title": "Golden Hour",
         "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRSFSBFMx_jTH2dpgXMCFUukz9KD5stlsJA&s",
         "similarImages": [
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
-     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s"        ]
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s"
+        ]
       },
       {
         "title": "Golden",
@@ -46,8 +46,8 @@
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbBmfaqXbutUpCudpS8prL5vn7utOEyRJuEXxtUomvpP62CBHFJiXLBt1hVJl3s52Kuw&usqp=CAU"
         ]
       },
- {
-        "title": "anime ",
+      {
+        "title": "anime",
         "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEkAq7IhW8JR4ut313V3j3TbmGb6uMneA_w&s",
         "similarImages": [
           "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwukU8dVjKhmGRP0UTwmXg-C7foqHkA4q7Lg&s",
@@ -56,5 +56,5 @@
         ]
       }
     ]
-
+  }
 }
