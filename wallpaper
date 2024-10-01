@@ -3,56 +3,49 @@
     "Trending": [
       {
         "title": "Beautiful Landscape",
-        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFGPBA9lvV2znu5jn6JIzpr8WnXfEVh0TkQA&s",
-        "similarImages": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc0KAFG6o3DV385mkyqDlAaRhJ36ipY3ZUgA&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyr1HQRarletrz4a-_8CGvB56mClXV6L8Bobh4BZrmhh2wiq2Bhr0alnwUwulu1CL1zeo&usqp=CAU",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUxa8uiwZfjPDGXaCKRqOveMjHk-UTfwrky7TjLEPi76efAz7OnfNJl8fQqqiW2FGUl_8&usqp=CAU"
+        "images": [
+          "https://mfiles.alphacoders.com/100/thumb-1920-1008214.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1013143.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012648.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1013221.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012748.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012400.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012399.png",
+          "https://mfiles.alphacoders.com/100/thumb-1920-1004245.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012401.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012747.png"
         ]
       },
       {
-        "title": "Golden Hour",
-        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIRSFSBFMx_jTH2dpgXMCFUukz9KD5stlsJA&s",
-        "similarImages": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBbOkWUQIZnaauSQMViUoDE_skJgKV-2eUEA&s"
+        "title": "Nature Scenery",
+        "images": [
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012645.png",
+          "https://mfiles.alphacoders.com/100/thumb-1920-1008716.png",
+          "https://mfiles.alphacoders.com/100/thumb-1920-1008168.png",
+          "https://mfiles.alphacoders.com/100/thumb-1920-1008863.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012071.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012398.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012683.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1013623.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012941.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1013144.png"
         ]
-      },
+      }
+    ],
+    "Festivals": [
       {
-        "title": "Golden",
-        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNRIVUN9pALXnKyHvYd9znw2GDil_q-OlAHg&s",
-        "similarImages": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs4zXc40LY1jogDMj6RaDaFY9UOWl0mDxBWQ&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1Q4pF03E8MIGtzVW_E78qmeyNUkqXNKqpA&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikuELaWVJYbLQk9dtENMhh4Xq3OLPTEeR2Q&s"
-        ]
-      },
-      {
-        "title": "Hour",
-        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWDnfBysJn99cOr_6p1h-kW26l6L_uThFdA&s",
-        "similarImages": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5cyQteQirc2uAv93z2VqUqbI0J7PRQqB30g&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0aa0jHshmnuVlPTMIP3Xx79oCKxFSF8P6iEvu0CW4IWSTJhwBf9DHbqMm9EnJFTy2Y6s&usqp=CAU",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvipgF7Db8aTs6og2KlQIdlp_7BCtH3ngYkwEViKUSLHY5AuhRYIO__5jMd764FtSCroY&usqp=CAU"
-        ]
-      },
-      {
-        "title": "GoldenHour",
-        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IpX_khy7A_mdUQPRGv4jJdrxRciesMejtA&s",
-        "similarImages": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnNq9GlYjAmsgL4exua2dF_nRhRTNnvv3qA&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbBmfaqXbutUpCudpS8prL5vn7utOEyRJuEXxtUomvpP62CBHFJiXLBt1hVJl3s52Kuw&usqp=CAU",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbBmfaqXbutUpCudpS8prL5vn7utOEyRJuEXxtUomvpP62CBHFJiXLBt1hVJl3s52Kuw&usqp=CAU"
-        ]
-      },
-      {
-        "title": "anime",
-        "imageUrl1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTEkAq7IhW8JR4ut313V3j3TbmGb6uMneA_w&s",
-        "similarImages": [
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwukU8dVjKhmGRP0UTwmXg-C7foqHkA4q7Lg&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY5DqvIpRNtBwsHHTbuxOtS3kYolMeN9e3ow&s",
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs7lNbCQAXSXBl8g3jR8u48ejpnmduPYncQQ&s"
+        "title": "Festive Lights",
+        "images": [
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012768.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012742.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1013531.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012644.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012767.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1013537.png",
+          "https://mfiles.alphacoders.com/100/thumb-1920-1006609.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1013534.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012686.png",
+          "https://mfiles.alphacoders.com/101/thumb-1920-1012975.png"
         ]
       }
     ]
