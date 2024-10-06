@@ -1,5 +1,5 @@
 {
-  "images": [
+  "home_images": [
     "https://mfiles.alphacoders.com/100/thumb-1920-1008214.png",
     "https://mfiles.alphacoders.com/101/thumb-1920-1013143.png",
     "https://mfiles.alphacoders.com/101/thumb-1920-1012648.png",
@@ -7,28 +7,60 @@
     "https://mfiles.alphacoders.com/101/thumb-1920-1012748.png",
     "https://mfiles.alphacoders.com/101/thumb-1920-1012400.png",
     "https://mfiles.alphacoders.com/101/thumb-1920-1012399.png",
-    "https://mfiles.alphacoders.com/100/thumb-1920-1004245.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012401.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012747.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012645.png",
-    "https://mfiles.alphacoders.com/100/thumb-1920-1008716.png",
-    "https://mfiles.alphacoders.com/100/thumb-1920-1008168.png",
-    "https://mfiles.alphacoders.com/100/thumb-1920-1008863.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012071.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012398.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012683.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1013623.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012941.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1013144.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012768.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012742.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1013531.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012644.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012767.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1013537.png",
-    "https://mfiles.alphacoders.com/100/thumb-1920-1006609.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1013534.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012686.png",
-    "https://mfiles.alphacoders.com/101/thumb-1920-1012975.png"
+    "https://mfiles.alphacoders.com/100/thumb-1920-1004245.png"
+  ],
+  "categories": [
+    {
+      "name": "Nature",
+      "images": [
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012401.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012747.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012645.png",
+        "https://mfiles.alphacoders.com/100/thumb-1920-1008716.png"
+      ]
+    },
+    {
+      "name": "Abstract",
+      "images": [
+        "https://mfiles.alphacoders.com/100/thumb-1920-1008168.png",
+        "https://mfiles.alphacoders.com/100/thumb-1920-1008863.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012071.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012398.png"
+      ]
+    },
+    {
+      "name": "Technology",
+      "images": [
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012683.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1013623.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012941.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1013144.png"
+      ]
+    },
+    {
+      "name": "Space",
+      "images": [
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012768.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012742.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1013531.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012644.png"
+      ]
+    },
+    {
+      "name": "Cityscape",
+      "images": [
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012767.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1013537.png",
+        "https://mfiles.alphacoders.com/100/thumb-1920-1006609.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1013534.png"
+      ]
+    },
+    {
+      "name": "Animals",
+      "images": [
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012686.png",
+        "https://mfiles.alphacoders.com/101/thumb-1920-1012975.png"
+      ]
+    }
   ]
 }
